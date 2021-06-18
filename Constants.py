@@ -1,0 +1,6 @@
+TABLE_NAME = "products"
+ITEM_ID = "ITEM_ID"
+NAME = "ITEM_NAME"
+VALIDITY = "VALIDITY"
+manufacturing = "MANUFACTURING_DATE"
+expiry = "EXPIRY"
